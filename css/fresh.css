@@ -1,0 +1,35 @@
+.text {
+    background-color: gold;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    border: solid grey 30px;
+    border-radius: 30px;
+    color: indianred;
+    text-align: center;
+}
+
+
+.cunt {
+    background-color: grey;
+    color: powderblue;
+    border: solid grey 30px;
+    border-radius: 30px;
+}
+
+.create {
+    background-color: royalblue;
+    border: 30px groove powderblue;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+
+}
+
+#btn {
+    background-color: saddlebrown;
+    color: white;
+    border: 30px;
+    border-radius: 20px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 45px;
+}
